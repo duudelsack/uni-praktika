@@ -9,7 +9,6 @@ public class Spiralen extends JPanel {
    */
   private void drawSpiral(Graphics graphics, String[] args){
 
-  // TODO
     int iterations = 0;
     double angle = 0;
     double shrink = 0;
