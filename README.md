@@ -8,7 +8,6 @@
 | `data-science-1/` | Data Science 1 | 1 | Praktika zu pandas und Datenaufbereitung, Housing-Datensatz, Beispielanalyse Ringgröße mit Cross-Validation |
 | `data-science-2/` | Data Science 2 | 2 | Clustering (Mall Customers), Praktika, Klassifikation von Bewegungsdaten (Gehen und Laufen) |
 | `programmieren-2/` | Programmieren 2 (Java) | 2 | Praktika zu Grundlagen, Objektorientierung, Arrays und Strings, Slot-Machine mit Tests |
-| `bildverarbeitung/` | Bildverarbeitung | 3 | Praktika 1 bis 4 und eine Anwendung zu Schwellwertverfahren |
 | `datenbanken/` | Datenbanken | 3 | Jeopardy-Spiel in Java mit SQLite |
 | `sicherheit/` | IT-Sicherheit | 3 | Vigenère-Verschlüsselung in Python |
 
