@@ -1,6 +1,6 @@
 # Praktika aus dem Studium
 
-Ausgewählte Praktika aus dem Bachelor Künstliche Intelligenz an der HAW Landshut. Die größeren Projekte haben eigene Repositories: [salary-prediction](https://github.com/duudelsack/salary-prediction), [klimawandel-analyse](https://github.com/duudelsack/klimawandel-analyse), [stroke-prediction](https://github.com/duudelsack/stroke-prediction) und [real-vs-ai-image-classification](https://github.com/duudelsack/real-vs-ai-image-classification).
+Ausgewählte Praktika aus dem Bachelor Künstliche Intelligenz an der HAW Landshut. Die größeren Projekte haben eigene Repositories: [salary-prediction](https://github.com/felbarbari/salary-prediction), [klimawandel-analyse](https://github.com/felbarbari/klimawandel-analyse), [stroke-prediction](https://github.com/felbarbari/stroke-prediction) und [real-vs-ai-image-classification](https://github.com/felbarbari/real-vs-ai-image-classification).
 
 | Ordner | Fach | Semester | Inhalt |
 |---|---|---|---|
